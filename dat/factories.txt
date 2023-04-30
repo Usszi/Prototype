@@ -1,0 +1,8 @@
+2
+Tvornica Marko
+Volovecka
+2,3,4,5,1
+1
+Tvornica Petar
+Somalska
+1,4,3
